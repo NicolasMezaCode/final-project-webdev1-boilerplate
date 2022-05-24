@@ -36,7 +36,6 @@ export default class extends AbstractView {
       }
     }  
     // console.log(curr);
-    const curr = Object.values(targetCountry.currencies);
     //Get language
     const lang = Object.values(targetCountry.languages);
     //Get Native name
